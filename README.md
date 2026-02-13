@@ -15,6 +15,7 @@ license: mit
 # 🧩 Clustering Predictor (KMeans / GMM)
 
 🔗 **Live Demo:**(https://huggingface.co/spaces/EnYa32/UnsupervisedCustumerPrediction)
+📓 **Kaggle Competition:** https://www.kaggle.com/code/enesyama/unsupervisedcustumer-clustering
 
 ## ⚡ Quick Facts
 
