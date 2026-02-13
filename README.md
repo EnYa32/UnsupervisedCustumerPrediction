@@ -45,6 +45,19 @@ Raw Features
 - Outputs **Predicted** cluster label for each row
 - Lets you download the predictions as a CSV
 
+## 📸 Model & Clustering Visualizations
+
+### PCA Explained Variance
+![PCA Variance](images/pca_variance.png)
+
+### KMeans Elbow Method
+![Elbow Method](images/elbow_kmeans.png)
+
+### Cluster Visualization (PCA 2D)
+![Clusters](images/cluster_pca.png)
+
+---
+
 ## 📊 Evaluation
 
 Because this is an **unsupervised learning** project, evaluation is not based on labeled accuracy.
